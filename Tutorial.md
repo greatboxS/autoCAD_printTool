@@ -1,5 +1,5 @@
 # autoCAD_printTool
-Phần mềm có 2 chức năng chính là (.pdf file):
+Tool có 2 chức năng chính là (.pdf file):
 1. Chọn và in tự động block có trên cửa sổ hiện tại của AutoCAD
 2. Chọn và in các page setup có trên cửa sổ hiện tại
 
