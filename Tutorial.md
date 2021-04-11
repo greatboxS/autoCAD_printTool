@@ -17,7 +17,6 @@ Phần mềm có 2 chức năng chính là (.pdf file):
   1.2 Tùy chỉnh trang in thủ cộng:
     Không tick vào ô "Print all", tiếp tục nhấn "Print" cửa sổ tùy chỉnh hiện ra:
     ![image](https://user-images.githubusercontent.com/43318216/114314825-80fc1a00-9b26-11eb-9e16-0a444b796e33.png)
-    
     Danh sách thể hiện vị thứ tự, vị trí của block, kéo di chuyển để thay đổi vị trí của block cần thay đổi.
     (Shot key - Shift + Click chuột để chọn,
                 Ctrl + Click chuột để bỏ chọn)
@@ -27,12 +26,9 @@ Phần mềm có 2 chức năng chính là (.pdf file):
     Có thể lựa chọn các in của các block được tìm kiếm tự động:
     Top - > Right -> Bottom : In theo cột
     Top - > Bottom -> Right : In theo hàng
-    
     ![image](https://user-images.githubusercontent.com/43318216/114315070-72623280-9b27-11eb-9ed0-da0432405bd6.png)
-    
     Thông tin của file được in.
         ![image](https://user-images.githubusercontent.com/43318216/114315110-9160c480-9b27-11eb-9249-1af972da8d4c.png)
-    
     - Chức năng tạo page setup từ block được chọn (không xuất ra file .pdf):
         ![image](https://user-images.githubusercontent.com/43318216/114315145-b81efb00-9b27-11eb-9eed-494d7027c6b5.png)
 
@@ -42,7 +38,6 @@ Phần mềm có 2 chức năng chính là (.pdf file):
     - Ở đây nếu tick vào ô "Print existing pagesetup" thì sẽ in những pagesetup có sẳn. Nhấn "Print" và cửa sổ tùy chọn
     page setup sẽ hiện ra.
     ![image](https://user-images.githubusercontent.com/43318216/114314496-29a97a00-9b25-11eb-88de-77de6cee436e.png)
-    
     Kéo và di chuyển thứ tự các page cho phù hợp
   2.2 In danh sách người dùng nhập vào
     Tick vào ô "Use custom list", nhấn "Import", cửa sổ nhập danh sách hiện ra:
